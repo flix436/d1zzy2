@@ -1,0 +1,29 @@
+{
+  "name": "d1zzy2",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "d1zzy2",
+      "version": "1.0.0",
+      "license": "MIT",
+      "dependencies": {
+        "d1zzy": "^1.0.1"
+      }
+    },
+    "node_modules/d1zzy": {
+      "version": "1.0.1",
+      "resolved": "https://registry.npmjs.org/d1zzy/-/d1zzy-1.0.1.tgz",
+      "integrity": "sha512-+DHeFqMmhCFjUwn4JVy9TKnOcY7QPznv3hGOo+PCXHefWLVv5865FJYTpEtp4UAev/orZKeu9mwEFOt9OU6oyg==",
+      "dependencies": {
+        "d1zzy2": "^1.0.0"
+      }
+    },
+    "node_modules/d1zzy2": {
+      "version": "1.0.0",
+      "resolved": "https://registry.npmjs.org/d1zzy2/-/d1zzy2-1.0.0.tgz",
+      "integrity": "sha512-J/mK5jedcKl+c0gt3QYnlc57dViOBO4IEJ2wvDBkTMVcJI5nrkQ84gtf9aFQiisJhBZkJmDel+sH2ajQstwaVQ=="
+    }
+  }
+}
